@@ -140,8 +140,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/ml-explore/mlx-swift",
       "state" : {
-        "revision" : "072b684acaae80b6a463abab3a103732f33774bf",
-        "version" : "0.29.1"
+        "revision" : "0bb916c67f4b9e5c682cbe02a42c701c93ab5021",
+        "version" : "0.31.6"
       }
     },
     {
@@ -208,6 +208,15 @@
       }
     },
     {
+      "identity" : "swift-argument-parser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-argument-parser",
+      "state" : {
+        "revision" : "6a52f3251125d74daf04fcbd5e6f08a75d074382",
+        "version" : "1.8.2"
+      }
+    },
+    {
       "identity" : "swift-atomics",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/apple/swift-atomics.git",
@@ -237,10 +246,10 @@
     {
       "identity" : "swift-jinja",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/huggingface/swift-jinja.git",
+      "location" : "https://github.com/DePasqualeOrg/swift-jinja.git",
       "state" : {
-        "revision" : "ba2364165002abe8f4f3992d74a7b547c635638e",
-        "version" : "2.2.1"
+        "revision" : "11501ff323c0001da371541c182ad1f9445f9231",
+        "version" : "0.2.0"
       }
     },
     {
@@ -271,6 +280,15 @@
       }
     },
     {
+      "identity" : "swift-syntax",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swiftlang/swift-syntax.git",
+      "state" : {
+        "revision" : "79e4b74a295b6eb74a8b585e3a39d29e70c1dbd1",
+        "version" : "603.0.2"
+      }
+    },
+    {
       "identity" : "swift-system",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/apple/swift-system.git",
@@ -280,12 +298,12 @@
       }
     },
     {
-      "identity" : "swift-transformers",
+      "identity" : "swift-tokenizers",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/huggingface/swift-transformers",
+      "location" : "https://github.com/DePasqualeOrg/swift-tokenizers.git",
       "state" : {
-        "revision" : "573e5c9036c2f136b3a8a071da8e8907322403d0",
-        "version" : "1.1.6"
+        "revision" : "547a55f2cdc024750c2ea6ef08603d7348986051",
+        "version" : "0.4.3"
       }
     },
     {
@@ -349,6 +367,15 @@
       "state" : {
         "revision" : "5e1ada828d2618ecb79c974e03f79c8f4df90b71",
         "version" : "0.18.0"
+      }
+    },
+    {
+      "identity" : "yyjson",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ibireme/yyjson.git",
+      "state" : {
+        "revision" : "8b4a38dc994a110abaec8a400615567bd996105f",
+        "version" : "0.12.0"
       }
     },
     {
